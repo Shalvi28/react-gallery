@@ -1,0 +1,40 @@
+.navbar > h1 {
+    display: inline;
+}
+body {
+    background-color: #E4E4E4;
+    padding:10px;
+}
+
+
+
+.gallery-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;
+    gap:2rem;
+}
+
+
+
+img{
+    width:400px;
+    height:400px;
+}
+
+
+
+button {
+    background-color: aqua;
+    color:brown;
+    border:5px solid rgb(8, 180, 137);
+
+}
+
+h1{
+    margin-left:100px;
+}
+
+input{
+    margin-left:300px;
+}
